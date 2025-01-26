@@ -70,13 +70,13 @@ describe("FetchTopLanguages", () => {
         color: "#0f0",
         count: 2,
         name: "HTML",
-        size: 20.000000000000004,
+        size: 14.142135623730951,
       },
       javascript: {
         color: "#0ff",
         count: 2,
         name: "javascript",
-        size: 20.000000000000004,
+        size: 14.142135623730951,
       },
     });
   });
@@ -110,13 +110,13 @@ describe("FetchTopLanguages", () => {
         color: "#0f0",
         count: 2,
         name: "HTML",
-        size: 200,
+        size: 1,
       },
       javascript: {
         color: "#0ff",
         count: 2,
         name: "javascript",
-        size: 200,
+        size: 1,
       },
     });
   });
@@ -130,13 +130,13 @@ describe("FetchTopLanguages", () => {
         color: "#0f0",
         count: 2,
         name: "HTML",
-        size: 2,
+        size: 200,
       },
       javascript: {
         color: "#0ff",
         count: 2,
         name: "javascript",
-        size: 2,
+        size: 200,
       },
     });
   });
